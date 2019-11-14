@@ -1,0 +1,32 @@
+body {
+    font-size: 18px;
+    color: blue;
+}
+
+h1,h2 {
+    font-family: Arial;
+}
+header {
+    font-size: 48px;
+    text-align: center;
+    border: 1px solid;
+    background-color:lightblue;
+    padding: 40px;
+}
+nav a {
+    text-decoration: none;
+    border:1px solid;
+    border-radius: 5px 5px 0 0;
+    margin-right: -5px;
+    padding: 5px;
+
+}
+
+nav {
+    border-bottom: 1px solid;
+    margin-top:10px;
+    padding-bottom: 5px;
+}
+nav a:hover {
+    background-color: lightgray;
+}
